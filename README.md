@@ -1,2 +1,2 @@
 # brook-byrd
-Jefferson Lab Hall B Software
+Jefferson Lab Hall B Software Contributions
