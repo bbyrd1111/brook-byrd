@@ -11,8 +11,9 @@ public class HistogramComparison{
 	private int sum = 0;
 	private double std = 0;
 	private Histogram2 comparison;
-	
-	
+
+
+	//Constructor
 	public HistogramComparison(Histogram2 hist1, Histogram2 hist2){
 		a = hist1;
 		b = hist2;
